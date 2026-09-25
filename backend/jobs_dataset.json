@@ -1,0 +1,402 @@
+[
+  {
+    "role": "AI Prompt Engineer",
+    "level": "Fresher",
+    "category": "Artificial Intelligence & Machine Learning",
+    "experience_years": "0-1",
+    "salary_range_lpa": "6-12",
+    "skills": [
+      { "name": "Natural Language Processing", "weight": 0.9 },
+      { "name": "LLM Architecture", "weight": 0.8 },
+      { "name": "Python", "weight": 0.7 },
+      { "name": "Systematic Testing", "weight": 0.6 }
+    ],
+    "tools": ["OpenAI API", "LangChain", "Midjourney", "AutoGPT"],
+    "soft_skills": ["Creative Writing", "Analytical Thinking", "Attention to Detail"],
+    "demand_score": 9,
+    "growth_score": 10,
+    "remote_available": true,
+    "industry": ["Technology", "E-commerce", "AdTech"],
+    "career_path": ["LLM Developer", "AI Product Manager"]
+  },
+  {
+    "role": "Junior Frontend Developer",
+    "level": "Fresher",
+    "category": "Software Development",
+    "experience_years": "0-1",
+    "salary_range_lpa": "4-8",
+    "skills": [
+      { "name": "React", "weight": 0.9 },
+      { "name": "JavaScript", "weight": 0.85 },
+      { "name": "Tailwind CSS", "weight": 0.7 },
+      { "name": "HTML5/CSS3", "weight": 0.6 }
+    ],
+    "tools": ["VS Code", "GitHub", "Vite", "Figma"],
+    "soft_skills": ["Problem Solving", "Team Collaboration"],
+    "demand_score": 8,
+    "growth_score": 8,
+    "remote_available": true,
+    "industry": ["FinTech", "HealthTech", "SaaS"],
+    "career_path": ["Senior Frontend Engineer", "UI/UX Lead"]
+  },
+  {
+    "role": "Data Analyst Trainee",
+    "level": "Fresher",
+    "category": "Data Science & Analytics",
+    "experience_years": "0-1",
+    "salary_range_lpa": "3.5-6.5",
+    "skills": [
+      { "name": "SQL", "weight": 0.9 },
+      { "name": "Excel (Advanced)", "weight": 0.8 },
+      { "name": "Python", "weight": 0.7 },
+      { "name": "Statistics", "weight": 0.6 }
+    ],
+    "tools": ["Tableau", "PowerBI", "Jupyter Notebooks", "SQL Server"],
+    "soft_skills": ["Data Storytelling", "Critical Thinking"],
+    "demand_score": 7,
+    "growth_score": 8,
+    "remote_available": false,
+    "industry": ["Consulting", "Retail", "Banking"],
+    "career_path": ["Senior Data Analyst", "Data Scientist"]
+  },
+  {
+    "role": "Cloud Support Associate",
+    "level": "Fresher",
+    "category": "Cloud & DevOps",
+    "experience_years": "0-1",
+    "salary_range_lpa": "4-7.5",
+    "skills": [
+      { "name": "Linux Administration", "weight": 0.85 },
+      { "name": "Networking Basics", "weight": 0.8 },
+      { "name": "AWS/Azure Foundational", "weight": 0.7 },
+      { "name": "Shell Scripting", "weight": 0.6 }
+    ],
+    "tools": ["AWS Management Console", "Terraform", "Jenkins", "Bash"],
+    "soft_skills": ["Customer Support", "Technical Troubleshooting"],
+    "demand_score": 7,
+    "growth_score": 9,
+    "remote_available": true,
+    "industry": ["IT Services", "Cloud Providers"],
+    "career_path": ["Cloud Engineer", "DevOps Specialist"]
+  },
+  {
+    "role": "Junior Cybersecurity Analyst",
+    "level": "Fresher",
+    "category": "Cybersecurity",
+    "experience_years": "0-1",
+    "salary_range_lpa": "5-9",
+    "skills": [
+      { "name": "Network Security", "weight": 0.9 },
+      { "name": "Security Protocols", "weight": 0.8 },
+      { "name": "Vulnerability Assessment", "weight": 0.75 },
+      { "name": "Ethical Hacking Basics", "weight": 0.6 }
+    ],
+    "tools": ["Wireshark", "Metasploit", "Nmap", "Splunk"],
+    "soft_skills": ["Ethics", "Pattern Recognition", "Incident Response"],
+    "demand_score": 8,
+    "growth_score": 9,
+    "remote_available": false,
+    "industry": ["Cybersecurity Firms", "Enterprise IT", "GovTech"],
+    "career_path": ["SOC Analyst", "Penetration Tester"]
+  },
+  {
+    "role": "Content Marketing Specialist",
+    "level": "Fresher",
+    "category": "Digital Marketing & Business Roles",
+    "experience_years": "0-1",
+    "salary_range_lpa": "3-5.5",
+    "skills": [
+      { "name": "SEO", "weight": 0.85 },
+      { "name": "Copywriting", "weight": 0.9 },
+      { "name": "Social Media Management", "weight": 0.7 },
+      { "name": "Canva Basics", "weight": 0.5 }
+    ],
+    "tools": ["WordPress", "Buffer", "Google Analytics", "SEM Rush"],
+    "soft_skills": ["Creativity", "Adaptability"],
+    "demand_score": 6,
+    "growth_score": 7,
+    "remote_available": true,
+    "industry": ["Agencies", "Direct-to-Consumer", "Media"],
+    "career_path": ["Digital Marketing Manager", "Branding Lead"]
+  },
+  {
+    "role": "Associate Product Manager",
+    "level": "Fresher",
+    "category": "Product & Management",
+    "experience_years": "0-1",
+    "salary_range_lpa": "8-15",
+    "skills": [
+      { "name": "Product Strategy", "weight": 0.9 },
+      { "name": "Market Research", "weight": 0.8 },
+      { "name": "Agile Methodology", "weight": 0.75 },
+      { "name": "UX Principles", "weight": 0.6 }
+    ],
+    "tools": ["Jira", "Asana", "Mixpanel", "Confluence"],
+    "soft_skills": ["Leadership", "Stakeholder Communication", "Strategic Mindset"],
+    "demand_score": 9,
+    "growth_score": 9,
+    "remote_available": false,
+    "industry": ["Startups", "Big Tech", "EdTech"],
+    "career_path": ["Product Manager", "Chief Product Officer"]
+  },
+  {
+    "role": "Graduate Engineer Trainee (GET)",
+    "level": "Fresher",
+    "category": "Software Development",
+    "experience_years": "0-1",
+    "salary_range_lpa": "4-10",
+    "skills": [
+      { "name": "Data Structures", "weight": 0.95 },
+      { "name": "Algorithms", "weight": 0.9 },
+      { "name": "Memory Management", "weight": 0.7 },
+      { "name": "Version Control", "weight": 0.6 }
+    ],
+    "tools": ["C++", "Java", "GitLab", "Linux"],
+    "soft_skills": ["Logical Reasoning", "Quick Learning"],
+    "demand_score": 8,
+    "growth_score": 8,
+    "remote_available": false,
+    "industry": ["Product Based Companies", "Automotive"],
+    "career_path": ["Software Development Engineer (SDE I)", "Module Lead"]
+  },
+  {
+    "role": "Blockchain Developer Intern",
+    "level": "Fresher",
+    "category": "Software Development",
+    "experience_years": "0-1",
+    "salary_range_lpa": "5-12",
+    "skills": [
+      { "name": "Solidity", "weight": 0.95 },
+      { "name": "Smart Contracts", "weight": 0.9 },
+      { "name": "Cryptography", "weight": 0.8 },
+      { "name": "Ethereum Ecosystem", "weight": 0.7 }
+    ],
+    "tools": ["Truffle", "Hardhat", "Metamask", "Infura"],
+    "soft_skills": ["Precise Execution", "Security Awareness"],
+    "demand_score": 6,
+    "growth_score": 9,
+    "remote_available": true,
+    "industry": ["Web3 Startups", "FinTech"],
+    "career_path": ["Senior Blockchain Engineer", "Decentralized Systems Architect"]
+  },
+  {
+    "role": "Quality Assurance (QA) Analyst",
+    "level": "Fresher",
+    "category": "Software Development",
+    "experience_years": "0-1",
+    "salary_range_lpa": "3.5-6",
+    "skills": [
+      { "name": "Manual Testing", "weight": 0.9 },
+      { "name": "Automation Testing", "weight": 0.8 },
+      { "name": "Selenium", "weight": 0.7 },
+      { "name": "Bug Reporting", "weight": 0.9 }
+    ],
+    "tools": ["Jira", "Selenium WebDriver", "Postman", "TestRail"],
+    "soft_skills": ["Patience", "Attention to Detail", "Documentation"],
+    "demand_score": 7,
+    "growth_score": 7,
+    "remote_available": true,
+    "industry": ["Enterprise Software", "QA Services"],
+    "career_path": ["SDET", "QA Lead"]
+  },
+  {
+    "role": "Junior Machine Learning Engineer",
+    "level": "Fresher",
+    "category": "Artificial Intelligence & Machine Learning",
+    "experience_years": "0-1",
+    "salary_range_lpa": "7-13",
+    "skills": [
+      { "name": "PyTorch/TensorFlow", "weight": 0.9 },
+      { "name": "Feature Engineering", "weight": 0.85 },
+      { "name": "Mathematical Optimization", "weight": 0.8 },
+      { "name": "Python", "weight": 0.9 }
+    ],
+    "tools": ["Google Colab", "Weights & Biases", "Scikit Learn", "HuggingFace"],
+    "soft_skills": ["Scientific Approach", "Inquisitiveness"],
+    "demand_score": 9,
+    "growth_score": 10,
+    "remote_available": true,
+    "industry": ["AI Labs", "E-commerce", "Autonomous Driving"],
+    "career_path": ["ML Architect", "AI Research Scientist"]
+  },
+  {
+    "role": "Business Development Associate",
+    "level": "Fresher",
+    "category": "Digital Marketing & Business Roles",
+    "experience_years": "0-1",
+    "salary_range_lpa": "3.5-7",
+    "skills": [
+      { "name": "Lead Generation", "weight": 0.9 },
+      { "name": "Sales Pitching", "weight": 0.85 },
+      { "name": "CRM Management", "weight": 0.7 },
+      { "name": "Market Mapping", "weight": 0.6 }
+    ],
+    "tools": ["Salesforce", "LinkedIn Sales Navigator", "HubSpot", "Slack"],
+    "soft_skills": ["Persuasion", "Resilience", "Negotiation"],
+    "demand_score": 8,
+    "growth_score": 6,
+    "remote_available": false,
+    "industry": ["EdTech", "Real Estate", "SaaS Vendors"],
+    "career_path": ["Business Development Manager", "Sales Director"]
+  },
+  {
+    "role": "UX/UI Designer (Junior)",
+    "level": "Fresher",
+    "category": "Product & Management",
+    "experience_years": "0-1",
+    "salary_range_lpa": "4-8",
+    "skills": [
+      { "name": "Visual Design", "weight": 0.9 },
+      { "name": "Wireframing", "weight": 0.85 },
+      { "name": "User Research", "weight": 0.7 },
+      { "name": "Prototyping", "weight": 0.8 }
+    ],
+    "tools": ["Figma", "Adobe XD", "Sketch", "Protopie"],
+    "soft_skills": ["Empathy", "Design Thinking", "Giving Feedback"],
+    "demand_score": 8,
+    "growth_score": 8,
+    "remote_available": true,
+    "industry": ["Design Studios", "Tech Startups"],
+    "career_path": ["Product Designer", "Creative Director"]
+  },
+  {
+    "role": "Junior Data Engineer",
+    "level": "Fresher",
+    "category": "Data Science & Analytics",
+    "experience_years": "0-1",
+    "salary_range_lpa": "6-10",
+    "skills": [
+      { "name": "ETL Pipelines", "weight": 0.9 },
+      { "name": "Python/Scala", "weight": 0.8 },
+      { "name": "SQL (Complex)", "weight": 0.85 },
+      { "name": "Big Data Basics", "weight": 0.6 }
+    ],
+    "tools": ["Apache Airflow", "Apache Spark", "Snowflake", "dbt"],
+    "soft_skills": ["Data Integrity Awareness", "Collaborative Spirit"],
+    "demand_score": 9,
+    "growth_score": 10,
+    "remote_available": true,
+    "industry": ["Data Infrastructure Companies", "Logistics"],
+    "career_path": ["Senior Data Engineer", "Data Infrastructure Lead"]
+  },
+  {
+    "role": "Social Media Associate",
+    "level": "Fresher",
+    "category": "Digital Marketing & Business Roles",
+    "experience_years": "0-1",
+    "salary_range_lpa": "3-5",
+    "skills": [
+      { "name": "Trend Monitoring", "weight": 0.9 },
+      { "name": "Community Engagement", "weight": 0.8 },
+      { "name": "Short-form Video Ops", "weight": 0.7 },
+      { "name": "Basic SEO", "weight": 0.5 }
+    ],
+    "tools": ["TikTok Analytics", "Canva", "CapCut", "Meta Business Suite"],
+    "soft_skills": ["Trend Forecasting", "Audience Engagement"],
+    "demand_score": 7,
+    "growth_score": 7,
+    "remote_available": true,
+    "industry": ["Lifestyle Brands", "Media Portals"],
+    "career_path": ["Social Media Manager", "Growth Lead"]
+  },
+  {
+    "role": "Business Analyst Trainee",
+    "level": "Fresher",
+    "category": "Product & Management",
+    "experience_years": "0-1",
+    "salary_range_lpa": "5-8.5",
+    "skills": [
+      { "name": "Requirement Analysis", "weight": 0.9 },
+      { "name": "Documentation (PRDs)", "weight": 0.85 },
+      { "name": "BPMN", "weight": 0.7 },
+      { "name": "SQL", "weight": 0.6 }
+    ],
+    "tools": ["LucidChart", "Microsoft Visio", "Jira", "Excel"],
+    "soft_skills": ["Analytical Precision", "Listening Skills"],
+    "demand_score": 8,
+    "growth_score": 8,
+    "remote_available": false,
+    "industry": ["Banking", "Insurance", "Supply Chain"],
+    "career_path": ["Senior Business Analyst", "Strategy Consultant"]
+  },
+  {
+    "role": "Embedded Systems Intern",
+    "level": "Fresher",
+    "category": "Software Development",
+    "experience_years": "0-1",
+    "salary_range_lpa": "4.5-8",
+    "skills": [
+      { "name": "Embedded C", "weight": 0.9 },
+      { "name": "RTOS", "weight": 0.8 },
+      { "name": "Microcontrollers", "weight": 0.85 },
+      { "name": "PCB Basics", "weight": 0.5 }
+    ],
+    "tools": ["Arduino IDE", "STM32Cube", "Proteus", "Keil"],
+    "soft_skills": ["Hardware Troubleshooting", "Attention to Detail"],
+    "demand_score": 6,
+    "growth_score": 7,
+    "remote_available": false,
+    "industry": ["IoT Startups", "Semiconductors"],
+    "career_path": ["Hardware Firmware Engineer", "Systems Architect"]
+  },
+  {
+    "role": "Digital Marketing Analyst",
+    "level": "Fresher",
+    "category": "Digital Marketing & Business Roles",
+    "experience_years": "0-1",
+    "salary_range_lpa": "4-7",
+    "skills": [
+      { "name": "PPC Management", "weight": 0.85 },
+      { "name": "Google Ads", "weight": 0.9 },
+      { "name": "Conversion Tracking", "weight": 0.8 },
+      { "name": "Data Analysis", "weight": 0.75 }
+    ],
+    "tools": ["Google Tag Manager", "Meta Ads Manager", "Looker Studio", "Excel"],
+    "soft_skills": ["Data Synthesis", "Budget Management"],
+    "demand_score": 8,
+    "growth_score": 8,
+    "remote_available": true,
+    "industry": ["E-com Aggregators", "Marketing SaaS"],
+    "career_path": ["Performance Marketing Lead", "CMO"]
+  },
+  {
+    "role": "Python Developer (Backend Trainee)",
+    "level": "Fresher",
+    "category": "Software Development",
+    "experience_years": "0-1",
+    "salary_range_lpa": "4-9",
+    "skills": [
+      { "name": "Python", "weight": 0.95 },
+      { "name": "Django/Flask", "weight": 0.8 },
+      { "name": "REST Concepts", "weight": 0.85 },
+      { "name": "PostgreSQL", "weight": 0.7 }
+    ],
+    "tools": ["PyCharm", "Postman", "Docker Basics", "Redis"],
+    "soft_skills": ["Clean Code Advocate", "Back-end Logic Planning"],
+    "demand_score": 9,
+    "growth_score": 9,
+    "remote_available": true,
+    "industry": ["Startup Ecosystem", "FinTech"],
+    "career_path": ["Lead Backend Developer", "System Designer"]
+  },
+  {
+    "role": "Mobile App Intern (Flutter/React Native)",
+    "level": "Experienced",
+    "category": "Software Development",
+    "experience_years": "3-6",
+    "salary_range_lpa": "18-35",
+    "skills": [
+        { "name": "Error Budgeting", "weight": 0.9 },
+        { "name": "On-call Protocols", "weight": 0.9 },
+        { "name": "Prometheus/Grafana", "weight": 0.85 },
+        { "name": "Incident Analysis", "weight": 0.8 }
+    ],
+    "tools": ["PagerDuty", "Terraform", "Istio", "Golang"],
+    "soft_skills": ["Calm Under Pressure", "Root Cause Focus"],
+    "demand_score": 10,
+    "growth_score": 10,
+    "remote_available": true,
+    "industry": ["Banking Platforms", "Global SaaS"],
+    "career_path": ["Lead SRE", "Platform Architect"]
+  }
+]
